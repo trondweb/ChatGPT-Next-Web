@@ -1,0 +1,8 @@
+# wrangler.toml (wrangler v3.78.6^)
+[observability]
+enabled = true
+name = "freegpt"
+compatibility_date = "2024-07-29"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+kv_namespaces = [{ binding = "freegpt", id = "efb3a4f3f12943e396bfdd8891d96a58" }]
