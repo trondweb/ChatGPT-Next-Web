@@ -494,7 +494,7 @@ export const internalAllowedWebDavEndpoints = [
   "https://app.koofr.net/dav/Koofr",
 ];
 
-export const DEFAULT_GA_ID = "GTM-K9MZKHB4";
+export const DEFAULT_GA_ID = "G-VC901SPJ6S";
 export const PLUGINS = [
   { name: "Plugins", path: Path.Plugins },
   { name: "Stable Diffusion", path: Path.Sd },
