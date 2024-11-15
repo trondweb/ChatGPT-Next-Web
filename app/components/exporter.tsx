@@ -541,7 +541,7 @@ export function ImagePreviewer(props: {
           <div>
             <div className={styles["main-title"]}>ExtraOrdinaryChat</div>
             <div className={styles["sub-title"]}>
-              aifree.info
+              github.com
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
